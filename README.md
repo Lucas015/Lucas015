@@ -39,16 +39,4 @@ Over the past year, I have devoted my efforts to building a web-based applicatio
 In addition, I've implemented a Dockerized local development environment, which not only enhances the project's portability but also streamlines the development process. This comprehensive approach to application development showcases my ability to harness a diverse set of technologies to deliver a cutting-edge solution that addresses complex industry needs.
 
 ### Skills
-
-- Ruby on Rails ![Ruby on Rails Icon](https://example.com/rails_icon.png)
-- Docker ![Docker Icon](https://example.com/docker_icon.png)
-- .NET Core ![.NET Core Icon](https://example.com/dotnet_icon.png)
-- Azure ![Azure Icon](https://example.com/azure_icon.png)
-- PostgreSQL ![PostgreSQL Icon](https://example.com/postgres_icon.png)
-- MySQL ![MySQL Icon](https://example.com/mysql_icon.png)
-- ReactJS ![ReactJS Icon](https://example.com/reactjs_icon.png)
-- jQuery ![jQuery Icon](https://example.com/jquery_icon.png)
-- CSS ![CSS Icon](https://example.com/css_icon.png)
-- HTML ![HTML Icon](https://example.com/html_icon.png)
-- Bootstrap ![Bootstrap Icon](https://example.com/bootstrap_icon.png)
-- [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=azure,cpp,cs,css,docker,dotnet,gcp,git,github,githubactions,html,jquery,kubernetes,mysql,nextjs,nginx,postgres,postman,rails,react,redis,redux,regex,ruby)](https://skillicons.dev)
