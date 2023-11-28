@@ -51,3 +51,4 @@ In addition, I've implemented a Dockerized local development environment, which 
 - CSS ![CSS Icon](https://example.com/css_icon.png)
 - HTML ![HTML Icon](https://example.com/html_icon.png)
 - Bootstrap ![Bootstrap Icon](https://example.com/bootstrap_icon.png)
+- [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
