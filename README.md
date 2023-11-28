@@ -8,7 +8,7 @@ I'm a passionate software developer deeply involved in the FinTech realm, specia
 
 ## Cradly Badges
 
-[![Applied Data Science I: Scientific Computing & Python (with honors)](https://drive.google.com/file/d/1IpWl9ce3EhpokEokQVXFjFRwHFer8CS8/view?usp=drive_link)](https://www.credly.com/badges/1b234fdb-8a57-48d9-b724-27c4a4411724/public_url)
+[![Applied Data Science I: Scientific Computing & Python (with honors)](https://www.imghippo.com/i/1701155120.png)](https://www.credly.com/badges/1b234fdb-8a57-48d9-b724-27c4a4411724/public_url)
 
 [![MCSD: App Builder — Certified 2017](https://www.credly.com/badges/b0c447be-2248-49a0-9f91-ef57e8692840/public_url)](https://www.credly.com/badges/b0c447be-2248-49a0-9f91-ef57e8692840/public_url)
 
